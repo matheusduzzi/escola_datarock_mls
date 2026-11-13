@@ -66,6 +66,7 @@ A licença de uso e redistribuição do kit ainda vai ser definida pela Escola D
 | [01-regressao-linear-e-mse/](01-regressao-linear-e-mse/) | Regressão linear e MSE |
 | [02-derivada-e-gradiente/](02-derivada-e-gradiente/) | Derivada e gradiente |
 | [03-valor-do-pedido/](03-valor-do-pedido/) | Valor do pedido |
+| [04-mae-rmse-e-r2/](04-mae-rmse-e-r2/) | MAE, RMSE e R² |
 | [05-logistica-e-log-loss/](05-logistica-e-log-loss/) | Logística e log-loss |
 | [06-odds-e-fronteira/](06-odds-e-fronteira/) | Odds e fronteira |
 | [07-cancelamento-de-pedidos/](07-cancelamento-de-pedidos/) | Cancelamento de pedidos |
