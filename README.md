@@ -76,6 +76,7 @@ A licença de uso e redistribuição do kit ainda vai ser definida pela Escola D
 | [11-escolher-regularizacao/](11-escolher-regularizacao/) | Escolher regularização |
 | [12-knn-e-dimensionalidade/](12-knn-e-dimensionalidade/) | KNN e dimensionalidade |
 | [13-knn-em-fraude-ficticia/](13-knn-em-fraude-ficticia/) | KNN em fraude fictícia |
+| [14-naive-bayes/](14-naive-bayes/) | Naive Bayes |
 | [15-naive-bayes-na-pratica/](15-naive-bayes-na-pratica/) | Naive Bayes na prática |
 | [16-svm-e-kernels/](16-svm-e-kernels/) | SVM e kernels |
 | [17-svm-na-loja-exemplo/](17-svm-na-loja-exemplo/) | SVM na Loja Exemplo |
